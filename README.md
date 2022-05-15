@@ -4,8 +4,7 @@
   Feito em Python + Selenium 
 </h4>
 </h1>
-
-<img scr="scr.png">
+<img src="https://github.com/Samuraiflamesf/CookieClicker_pySelenium/blob/main/scr.png" >
 <p align="center"> 
 Projetinho para automatizar uma farm, dando Clickers, selecionando o melhor Upgrade e comprando a cada 500 clickers
 </p>
