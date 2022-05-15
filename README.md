@@ -1,11 +1,11 @@
 <h1 align="center"> 
   Cookie Clicker 
-  <h3 align="center"> 
+  <h4 align="center"> 
   Feito em Python + Selenium 
-</h3>
+</h4>
 </h1>
 
-<img href="https://github.com/Samuraiflamesf/CookieClicker_pySelenium/blob/main/scr.png?raw=true">
+<img scr="scr.png">
 <p align="center"> 
 Projetinho para automatizar uma farm, dando Clickers, selecionando o melhor Upgrade e comprando a cada 500 clickers
 </p>
