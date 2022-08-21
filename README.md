@@ -1,13 +1,15 @@
 <div align="center">
 
 # Cookie Clicker 🍪
+</div>
+
+<img src="https://github.com/Samuraiflamesf/CookieClicker_pySelenium/blob/main/scr.png" wight= "800px">
+
+<div align="center">
+
 [![Tech](https://skillicons.dev/icons?i=py,selenium)](https://skillicons.dev)
 
 </div>
-
-<img src="https://github.com/Samuraiflamesf/CookieClicker_pySelenium/blob/main/scr.png" wight= 800px>
-
-
 
 # 📄 Automação/Cookie Clicker 🍪 ![status-finalizado](https://user-images.githubusercontent.com/62897976/185768561-589083e1-f18f-480b-9709-0ca24acf9c6d.svg)
 
