@@ -11,7 +11,8 @@
 
 </div>
 
-# 📄 Automação/Cookie Clicker 🍪 ![status-finalizado](https://user-images.githubusercontent.com/62897976/185768561-589083e1-f18f-480b-9709-0ca24acf9c6d.svg)
+# 📄 Automação/Cookie Clicker 🍪 
+![status-finalizado](https://user-images.githubusercontent.com/62897976/185768561-589083e1-f18f-480b-9709-0ca24acf9c6d.svg)
 
 > Resumo do Projeto: Projeto para automatizar uma farm, dando Clickers, selecionando o melhor Upgrade e comprando a cada 500 clickers. Foco desse projeto foi para aplicar conhecimentos de selenium e criar umas funções.
 
